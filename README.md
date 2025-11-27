@@ -1,4 +1,4 @@
-🖥️ Single-Cycle RISC-V Processor (RV32I) — Complete Documentation
+🖥️ Single-Cycle RISC-V Processor (RV32I)
 
 This repository contains a fully functional Single-Cycle RISC-V Processor supporting the RV32I instruction set.
 The design is written in Verilog HDL, with clean modular blocks and a well-structured datapath, making it ideal for learning, academic projects, and RTL design practice.
